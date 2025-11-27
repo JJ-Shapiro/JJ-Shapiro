@@ -1,4 +1,5 @@
-## Hi there 👋
+## Well <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/6e7d4419-b032-415b-a882-83822fcb5fd5" /> there
+
 
 <!--
 **JJ-Shapiro/JJ-Shapiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
