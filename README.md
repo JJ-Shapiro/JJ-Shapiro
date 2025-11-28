@@ -1,4 +1,8 @@
-<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/6e7d4419-b032-415b-a882-83822fcb5fd5" /> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/6e7d4419-b032-415b-a882-83822fcb5fd5" />
+  <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/6e7d4419-b032-415b-a882-83822fcb5fd5" /> 
+</picture>
+
 
 
 <!--
